@@ -13,7 +13,6 @@ const RouterComponent = () => {
                 <Scene key="Main">
                 <Scene key = "myitems" component= {MyItems} title = "My Items"  />
                 </Scene>
-                
             </Scene>
         </Router>
     );
